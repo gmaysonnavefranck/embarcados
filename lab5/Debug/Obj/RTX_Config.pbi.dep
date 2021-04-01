@@ -1,0 +1,11 @@
+RTX_Config.pbi: \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\lab5\src\RTX_Config.c \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\lab5\..\..\CMSIS-5.6.0\CMSIS\Core\Include\cmsis_compiler.h \
+  F:\iar\arm\inc\c\stdint.h F:\iar\arm\inc\c\ycheck.h \
+  F:\iar\arm\inc\c\yvals.h F:\iar\arm\inc\c\DLib_Defaults.h \
+  F:\iar\arm\inc\c\DLib_Config_Normal.h F:\iar\arm\inc\c\DLib_Product.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\lab5\..\..\CMSIS-5.6.0\CMSIS\Core\Include\cmsis_iccarm.h \
+  F:\iar\arm\inc\c\iccarm_builtin.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\lab5\..\..\CMSIS-5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h \
+  F:\iar\arm\inc\c\stddef.h F:\iar\arm\inc\c\ysizet.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\lab5\..\..\CMSIS-5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h
