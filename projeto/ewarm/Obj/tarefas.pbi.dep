@@ -1,0 +1,20 @@
+tarefas.pbi: \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\src\UARTInit.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\..\..\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h \
+  F:\iar\arm\inc\c\stdarg.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\..\..\TivaWare_C_Series-2.1.4.178\utils\uartstdio.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\..\..\TivaWare_C_Series-2.1.4.178\driverlib\uart.h \
+  F:\iar\arm\inc\c\ycheck.h F:\iar\arm\inc\c\stddef.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\..\..\CMSIS-5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h \
+  F:\iar\arm\inc\c\stdint.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\src\system_tm4c1294.h \
+  F:\iar\arm\inc\c\DLib_Product_string.h F:\iar\arm\inc\c\string.h \
+  F:\iar\arm\inc\c\DLib_float_setup.h F:\iar\arm\inc\c\math.h \
+  F:\iar\arm\inc\c\DLib_Product_stdlib.h F:\iar\arm\inc\c\stdlib.h \
+  F:\iar\arm\inc\c\ysizet.h F:\iar\arm\inc\c\DLib_Product.h \
+  F:\iar\arm\inc\c\DLib_Config_Normal.h F:\iar\arm\inc\c\DLib_Defaults.h \
+  F:\iar\arm\inc\c\yvals.h F:\iar\arm\inc\c\stdio.h \
+  F:\iar\arm\inc\c\stdbool.h \
+  F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\src\tarefas.c
