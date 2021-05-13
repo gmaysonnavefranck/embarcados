@@ -1,6 +1,0 @@
-O botão da esquerda deve chamar o elevador da esquerda
-O botão da direitadeve chamar o elevador da direita
-O botão do centro deve chamar o elevador do centro
-Ao chegar em um andar o elevador deve abrir sua porta esperar 5 segundos e fechar
-Ao apertar um botão interno ele deve acender sua luz
-O elevador deve considerar a direção que está indo na hora de parar em um andar
