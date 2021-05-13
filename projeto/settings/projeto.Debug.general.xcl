@@ -1,0 +1,15 @@
+"F:\iar\arm\bin\armproc.dll" 
+
+"F:\iar\arm\bin\armlmiftdi.dll" 
+
+"F:\iar\EK-TM4C1294_RTOS_IAR8-master\Projects\projeto\ewarm\Exe\tarefas.out" 
+
+--plugin="F:\iar\arm\bin\armbat.dll" 
+
+--device_macro="F:\iar\arm\config\debugger\TexasInstruments\TM4C129.dmac" 
+
+--flash_loader="F:\iar\arm\config\flashloader\TexasInstruments\FlashTC4_NC.board" 
+
+
+
+
